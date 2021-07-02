@@ -1,0 +1,29 @@
+{
+    "siteInfo": {
+        "name": "サイトのタイトル",
+        "siteUrl": "サイトのドメイン"
+    },
+
+    "pages": {
+        "home": {
+            "name": "ホーム",
+            "pageName": "home",
+            "description": "ページの説明"
+        },
+        "work": {
+            "name": "制作実績",
+            "pageName": "work",
+            "description": "制作実績ページの説明"
+        },
+        "contact": {
+            "name": "お問い合わせ",
+            "pageName": "contact",
+            "description": "お問い合わせページの説明"
+        },
+        "about": {
+            "name": "私たちについて",
+            "pageName": "about",
+            "description": "私たちについてページの説明"
+        }
+    }
+}
